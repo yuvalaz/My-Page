@@ -1,3 +1,50 @@
 body{
-    background-color: hsl(180, 74%, 40%);
+    background-color: rgb(128, 128, 128);
+}
+
+.me{
+    width: 200px;
+    height: 250px;
+    margin-left: 50%;
+    margin-right: 50%;
+    background-attachment: local;
+}
+
+.github{
+    width: 35px;
+}
+.email{
+    width: 23px;
+
+}
+.telavivuniversity{
+    width: 50px;
+    height: 20px ;
+}
+.highschool{
+    width: 100px;
+    height: 30px ;
+}
+.iitc{
+    width: 100;
+    height: 34px;
+}
+.kpir{
+    width: 48px;
+    height: 66px;
+}
+.ins{
+    width: 60px;
+    height: 60px;
+}
+.iai{
+    width: 60px;
+    height: 60px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(0, 128, 128) ;
+}
+h3{
+   text-align: center; 
 }
